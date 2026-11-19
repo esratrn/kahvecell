@@ -1,0 +1,24 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Veritabanı ve gizli ayarlar
+*.db
+*.db.bak
+*.sqlite3
+.env
+
+# Node
+node_modules/
+dist/
+
+# Eğitim materyali; herkese açık repoda paylaşılmaz
+KahveCell_Case_Analiz_Dokumani.docx
+
+# Editör / işletim sistemi
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
